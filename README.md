@@ -1,4 +1,4 @@
-# PlanetRTSTraining
+# Planet RTS Training
 
 ## Reference for the game : 
 
